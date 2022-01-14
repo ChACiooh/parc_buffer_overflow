@@ -1,8 +1,8 @@
 # Detecting buffer overflow
 
 ## About Running
-- How to build : gcc -fno-stack-protector -o buffer1 buffer1.c
-- How to run : ./buffer1
+- How to build : `gcc -fno-stack-protector -o buffer1 buffer1.c`
+- How to run : `./buffer1`
 
 ## About local variable
 - valid : to check for right copy between strings
